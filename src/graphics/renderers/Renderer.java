@@ -25,8 +25,8 @@ public class Renderer extends AbstractRenderer {
 	private InputVariable[] inputs;
 	
 	static {
-		defaultVertexShader = "/Users/claytonknittel/git/Utilities/src/graphics/shaders/vertexShader";
-		defaultFragmentShader = "/Users/claytonknittel/git/Utilities/src/graphics/shaders/fragmentShader";
+		defaultVertexShader = "/Users/claytonknittel/documents/workspace/LWJGLWrapper/src/graphics/shaders/vertexShader";
+		defaultFragmentShader = "/Users/claytonknittel/documents/workspace/LWJGLWrapper/src/graphics/shaders/fragmentShader";
 	}
 	
 	public Renderer() {

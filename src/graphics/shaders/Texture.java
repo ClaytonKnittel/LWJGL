@@ -24,7 +24,7 @@ import org.lwjgl.system.MemoryStack;
  */
 public class Texture {
 
-	public static final String path = "/Users/claytonknittel/git/Utilities/src/graphics/models/textures/";
+	public static final String path = "/Users/claytonknittel/documents/workspace/LWJGLWrapper/src/graphics/models/textures/";
 
 	/**
 	 * Stores the handle of the texture

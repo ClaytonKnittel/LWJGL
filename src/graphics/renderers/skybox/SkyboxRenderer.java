@@ -12,8 +12,8 @@ import tensor.Matrix4;
 
 public class SkyboxRenderer extends AbstractRenderer {
 
-	private static final String VERTEX_FILE = "/Users/claytonknittel/git/Utilities/src/graphics/renderers/skybox/skyboxVertexShader";
-	private static final String FRAGMENT_FILE = "/Users/claytonknittel/git/Utilities/src/graphics/renderers/skybox/skyboxFragmentShader";
+	private static final String VERTEX_FILE = "/Users/claytonknittel/documents/workspace/LWJGLWrapper/src/graphics/renderers/skybox/skyboxVertexShader";
+	private static final String FRAGMENT_FILE = "/Users/claytonknittel/documents/workspace/LWJGLWrapper/src/graphics/renderers/skybox/skyboxFragmentShader";
 	
 	private ShaderProgram program;
 	
